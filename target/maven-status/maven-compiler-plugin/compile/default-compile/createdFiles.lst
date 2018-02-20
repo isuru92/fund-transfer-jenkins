@@ -1,0 +1,4 @@
+com/vtaf/account/MoneyTransfer.class
+com/vtaf/user/UserLogin.class
+com/vtaf/db/DbConnection.class
+com/vtaf/account/MainPage.class
